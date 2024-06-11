@@ -1,5 +1,12 @@
-## Hi there 👋
+ ⚡Bem vindos ao meu perfil!
+ 
+   •Me chamo Daffny Kemilly e estou fazendo aulas no alura
 
+   •Gosto de usar esse espaço para compartilhar meu projetos
+
+  Pode entrar em contato comigo através de meus emails:
+
+  00001122162206@sp.al.educacao.sp.gov.br
 <!--
 **Daffny8899/Daffny8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
